@@ -1,2 +1,1 @@
--Hola soy romongo
--Una vez mas AQUI updateando mi README, 14/ago
+-Hello, my name is Rodrigo Chavez, trying to take this more seriously now.
