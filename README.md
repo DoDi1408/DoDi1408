@@ -8,6 +8,11 @@
   * CS Student on my last year.
   * Backend-focused developer.
   * Passionate about cloud development.
-## What do I know?
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoDi1408&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
+## What do I know?
+ * Backend development using Node.JS and Python.
+ * Modeling of Relational Databases
+ * Frontend development with React (sort-of)
+ * AWS Solutions Architect Associate
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dodi1408&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
