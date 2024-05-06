@@ -9,3 +9,5 @@
   * Backend-focused developer.
   * Passionate about cloud development.
 ## What do I know?
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoDi1408&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
